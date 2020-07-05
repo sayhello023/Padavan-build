@@ -2,7 +2,6 @@
 
 
 全自动编译padavan固件，源码使用的是https://github.com/hanwckf/rt-n56u.git
-目前支持红米AC2100 代号RM2100 ，   
-                              小米MINI  代号MINI，   
-                               极路由4或者极路由4增强版固件通刷  代号B70，   
-                               斐讯K2    代号PSG1218。
+默认登陆IP:192.168.2.1
+默认用户名/密码:admin/admin
+默认wifi密码:1234567890
