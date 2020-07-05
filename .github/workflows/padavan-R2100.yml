@@ -1,8 +1,8 @@
 # # # # # # # # # # #
-#  自动构建 RM2100
+#  自动构建 R2100
 #      
 # # # # # # # # # # #
-name: Padavan CI RM2100
+name: Padavan CI R2100
 on: 
   release:
     types: [published]
@@ -17,7 +17,7 @@ on:
   watch:
     types: [started]
 env:
-  T_NAMES: "RM2100"        # 设备名字数组
+  T_NAMES: "R2100"        # 设备名字数组
   BASE_PATH: padavan                # 基础目录
   PUBLIC_PATH: public               # 公共目录
   VERSION_FILE: versions.inc        # 版本后缀
